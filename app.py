@@ -7,7 +7,7 @@ class Contact {
 
     Contact(String name, String phone) {
         this.name = name;
-        this.phone = phone;
+        this.address = address;
     }
 
     void display() {
