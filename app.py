@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 class Contact {
     String name;
-    String phone;
+    String address;
 
     Contact(String name, String phone) {
         this.name = name;
